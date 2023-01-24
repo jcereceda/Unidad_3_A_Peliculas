@@ -1,0 +1,274 @@
+{
+  "data": [
+    {
+      "linkFoto": "https://media.posterlounge.com/images/big/1878326.jpg",
+      "linkFoto2": "https://www.telemadrid.es/2022/02/22/corporativo/sala-de-prensa/Padrino-mejor-pelicula-historia-cumple_2426167381_30636700_1300x731.jpg",
+      "titulo": "El padrino",
+      "argumento": "Don Vito Corleone es el respetado y temido jefe de una de las cinco familias de la mafia de Nueva York en los años 40. El hombre tiene cuatro hijos: Connie, Sonny, Fredo y Michael, que no quiere saber nada de los negocios sucios de su padre. Cuando otro capo, Sollozzo, intenta asesinar a Corleone, empieza una cruenta lucha entre los distintos clanes.",
+      "genero": "drama",
+      "year": 1972,
+      "director": "Francis Ford Coppola"
+    },
+    {
+      "linkFoto": "https://static.filmin.es/images/media/39953/1/poster_0_3.png",
+      "linkFoto2": "https://www.latercera.com/resizer/g6OSTF1PRJkzUmR3tBvsb9sivYk=/1200x630/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/YGJOROUWBBFUZNXJ2AICPF2LRU.jpg",
+      "titulo": "La lista de Schindler ",
+      "argumento": "Oskar Schindler, un hombre de enorme astucia y talento organiza un ambicioso plan para ganarse la simpatía de los nazis y a la vez poder rescatar a miles de judíos.",
+      "genero": "drama",
+      "year": 1993,
+      "director" : "Steven Spielberg"
+    },
+    {
+      "linkFoto": "https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/74/28/34/20234753.jpg",
+      "linkFoto2" : "https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2018/10/19/travisbickle_robert-de-niro_taxi-driver.jpg",
+      "titulo": "Taxi Driver",
+      "argumento": "Para sobrellevar el insomnio crónico que sufre desde su regreso de Vietnam, Travis Bickle trabaja como taxista nocturno en Nueva York.",
+      "genero": "drama",
+      "year":  1973,
+      "director": "Martin Scorsese"
+    },
+    {
+      "linkFoto": "https://c8.alamy.com/compes/p4jc7e/el-titulo-de-la-pelicula-original-manchester-por-el-mar-titulo-en-ingles-manchester-por-el-mar-el-director-de-cine-kenneth-lonergan-ano-2016-estrellas-casey-affleck-michelle-williams-credito-grandes-imagenes-indie-album-p4jc7e.jpg",
+      "linkFoto2": "https://resizing.flixster.com/VUizpFpygO--SxwOzyjsG-h55fY=/740x380/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/453/671/ManchesterbytheSea_Trailer.jpg",
+      "titulo": "Manchester by the Sea",
+      "argumento": "Tras la muerte de su hermano, Lee Chandler se ve obligado a regresar a su pueblo natal y asumir la tutela de su sobrino adolescente. Allí Lee tendrá que lidiar también con su trágico pasado, motivo por el cual se marchó y rompió los vínculos que tenía con su familia y su hogar.",
+      "genero": "drama",
+      "year": 2016,
+      "director": "Kenneth Lonergan"
+    },
+    {
+      "linkFoto": "https://www.elseptimoarte.net/carteles/whiplash_47782.jpg",
+      "linkFoto2": "https://musicacreativa.com/wp-content/uploads/2015/02/whiplash-sangre-baquetas-oscar-1024x568.jpg",
+      "titulo": "Whiplash",
+      "argumento": "Andrew Neiman es un joven y ambicioso baterista de jazz. Marcado por el fracaso de la carrera literaria de su padre, está obsesionado con alcanzar la cima dentro del elitista conservatorio de música de la Costa Este en el que estudia.",
+      "genero": "drama",
+      "year": 2014,
+      "director": "Damien Chazelle"
+    },
+    {
+      "linkFoto": "https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/89/75/21/20065218.jpg",
+      "linkFoto2": "https://estaticos-cdn.elperiodico.com/clip/1117558d-7b40-4db1-b27e-11dea39a291a_source-aspect-ratio_default_0.jpg",
+      "titulo": "Million dollar baby",
+      "argumento": "Frankie Dunn es un entrenador que a pesar de su carácter arisco y su norma de no entrenar a chicas, acaba entrenando a Maggie Fitzgerald. Maggie es una chica que quiere ser boxeadora y está dispuesta a hacer lo que sea para conseguirlo",
+      "genero": "drama",
+      "year": 2004,
+      "director": "Clint Eastwood"
+    },
+    {
+      "linkFoto": "https://i.blogs.es/6d84c8/breaking-bad/1366_2000.jpg",
+      "linkFoto2": "https://media.revistagq.com/photos/5d25c072987c410008630d38/master/pass/breaking%20bad.jpg",
+      "titulo": "Breaking bad",
+      "argumento": "Un profesor de química con cáncer terminal se asocia con un exalumno suyo para fabricar y vender metanfetamina a fin de que su familia no pase apuros económicos.",
+      "genero": "serie",
+      "year": 2008,
+      "director": "Vince Gilligan"
+    },
+    {
+      "linkFoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Peaky_Blinders_Logo.png/640px-Peaky_Blinders_Logo.png",
+      "linkFoto2": "https://img.asmedia.epimg.net/resizer/UFKXIbEqwSPp_BrSL5XqOpuWWmk=/1952x1098/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/MIBE3RUHAFGNTNGXFFB3PSJVD4.jpg",
+      "titulo": "Peaky Blinders",
+      "argumento": "Peaky Blinders es una serie de televisión inglesa de drama histórico, emitida por el canal BBC Two. La serie está protagonizada por Cillian Murphy y se centra en una familia de gánsteres de Birmingham, durante los años veinte y del ascenso de su jefe, Thomas Shelby, un mafioso que dominará toda Inglaterra, después de afrontar una terrible guerra. ",
+      "genero": "serie",
+      "year": 2013,
+      "director": "Otto Barhurst"
+    },
+    {
+      "linkFoto": "https://larepublicacheca.cat/wp-content/uploads/2022/12/The-Office.png",
+      "linkFoto2": "https://s1.eestatic.com/2021/10/22/actualidad/621450576_212510265_1024x576.jpg",
+      "titulo": "The Office",
+      "argumento": "Michael es el gerente de una empresa papelera de Pensilvania en la que tiene bajo su mando a personajes como Dwight, su asistente; Pam, la recepcionista; Jim, un vendedor, o Ryan, un joven con contrato temporal que pronto se dará cuenta de que en esta compañía nada es lo que parece.",
+      "genero": "serie",
+      "year": 2005,
+      "director": "Randall Einhorn"
+    },
+    {
+      "linkFoto": "https://www.dodmagazine.es/wp-content/uploads/2020/05/vikingos-temporada-6-donde-ver-online.jpg",
+      "linkFoto2": "https://es.web.img3.acsta.net/newsv7/20/04/23/11/01/5354241.jpg",
+      "titulo": "Vikings",
+      "argumento": "Narra las aventuras del héroe Ragnar Lothbrok, de sus hermanos vikingos y su familia, cuando él se subleva para convertirse en el rey de las tribus vikingas. Además de ser un guerrero valiente, Ragnar encarna las tradiciones nórdicas de la devoción a los dioses. Según la leyenda era descendiente directo del dios Odín.",
+      "genero": "serie",
+      "year": 2013,
+      "director": "Frank y Nuala Moiselle"
+    },
+    {
+      "linkFoto": "https://cdn.culturagenial.com/es/imagenes/los-soprano-cartel-cke.jpg",
+      "linkFoto2": "https://indiehoy.com/wp-content/uploads/2021/05/sopranos.jpg",
+      "titulo": "Los Soprano",
+      "argumento": "Se trata de una serie que cuenta las vivencias de una familia de la mafia italiana instalada en Nueva Jersey, y las dificultades que surgen tanto en el hogar como en la organización criminal.",
+      "genero": "serie",
+      "year": 1999,
+      "director": "David Chase"
+    },
+    {
+      "linkFoto": "https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/05/12/4FE61E57-DA0F-4C87-B0B6-E49927AD0C33//480x270.jpg",
+      "linkFoto2": "https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/04/02/0D5EC950-AACF-44ED-AC0A-64346D698D3B//480x270.jpg",
+      "titulo": "Aqui no hay quien viva",
+      "argumento": "e narra la vida de una peculiar comunidad de vecinos de la ficticia calle Desengaño 21;\u200B en un edificio decimonónico localizado en el centro de Madrid compuesta por un bloque de tres pisos, con un total de seis viviendas, una portería, un ático utilizado como trastero y un local contiguo.",
+      "genero": "serie",
+      "year": 2003,
+      "director": "Laura Caballero"
+    },
+    {
+      "linkFoto": "https://static.filmin.es/images/media/22096/3/poster_0_3.png",
+      "linkFoto2": "https://i.blogs.es/38ae2c/thepartyf1/840_560.jpg",
+      "titulo": "El guateque",
+      "argumento": "Hrundi, un torpe actor hindú, es invitado por error a una fiesta de Hollywood en la que terminará siendo el protagonista.",
+      "genero": "comedia",
+      "year": 1968,
+      "director": "Blake Edwards"
+    },
+    {
+      "linkFoto": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/3d156cbd0b6d7a971f4c1c606611f53c8b50262348e187310f15260e52a109ae._RI_V_TTW_.jpg",
+      "linkFoto2": "https://media.ambito.com/p/8c8ac8c0d6738e1d60fba1c8ed9d2d2f/adjuntos/239/imagenes/040/088/0040088453/superbadjpg.jpg",
+      "titulo": "SuperBad",
+      "argumento": "Evan y Seth, dos adolescentes inadaptados, amigos desde la infancia, están a punto de graduarse en el instituto, pero antes de que sus vidas se separen para ir a la universidad, ambos van a intentar pasar una última e irrepetible noche de juerga.",
+      "genero": "comedia",
+      "year": 2007,
+      "director": "Greg Mottola"
+    },
+    {
+      "linkFoto": "https://img.mundifrases.com/images/thumb_movie-frankenstein-junior.233x330_q95_box-13,12,342,500.jpg",
+      "linkFoto2": "https://1.bp.blogspot.com/-Os0dlnRyxYA/XocjiKIwMTI/AAAAAAAAfv8/pPjDpha0DkYH1iNhFAn16_-tO3CuiAufgCLcBGAsYHQ/s1600/el-jovencito-frankenstein%2B%25282%2529.jpg",
+      "titulo": "El jovencito Frankenstein",
+      "argumento": "El joven e inexperto doctor Frederick Frankenstein tiene que viajar hasta Transilvania para hacerse cargo de la mansión de su abuelo. El gigantesco castillo esconde más de un secreto, y es que el joven encuentra un libro en el que se explica, paso a paso, como devolver la vida a una persona ya fallecida.",
+      "genero": "comedia",
+      "year": 1974,
+      "director": "Mel Brooks"
+    },
+    {
+      "linkFoto": "https://museoinf.webs.upv.es/wp-content/uploads/2021/04/telefono_rojo_volamos_hacia_moscu.jpg",
+      "linkFoto2": "https://static.filmin.es/images/media/29281/2/still_1_3_1360x765.png",
+      "titulo": "¿Teléfono rojo? Volamos hacia Moscú",
+      "argumento": "Convencido de que los comunistas están contaminando los Estados Unidos, un general ordena, en un acceso de locura, un ataque aéreo nuclear sorpresa contra la Unión Soviética. Su ayudante, el capitán Mandrake, trata de encontrar la fórmula para impedir el bombardeo. Por su parte, el Presidente de los EE.UU. se pone en contacto con Moscú para convencer al gobierno soviético de que el ataque no es más que un estúpido error.",
+      "genero": "comedia",
+      "year": 1964,
+      "director": "Stanley Kubrick"
+    },
+    {
+      "linkFoto": "https://www.ecartelera.com/carteles/4200/4274/002_m.jpg",
+      "linkFoto2": "https://ep01.epimg.net/elpais/imagenes/2017/12/19/album/1513685168_292811_1513685283_noticia_normal.jpg",
+      "titulo": "El gran Lebowski",
+      "argumento": "Un vago de Los Ángeles y sus compañeros de bolos son secuestrados cuando él es confundido con un millonario",
+      "genero": "comedia",
+      "year": 1988,
+      "director": "Joel David Cohen"
+    },
+    {
+      "linkFoto": "https://media.posterlounge.com/images/l/1897978.jpg",
+      "linkFoto2": "https://media.revistavanityfair.es/photos/60e859dea8905e02065daf85/16:9/w_1840,h_1035,c_limit/26111.jpg",
+      "titulo": "Annie Hall",
+      "argumento": "Un comediante neurótico y una cantante tienen problemas en su relación a causa de sus diferentes puntos de vista. Tras romper con ella, recuerda sus pasados amores llegando a la conclusión de que sus manías siempre han arruinado sus relaciones.",
+      "genero": "comedia",
+      "year": 1977,
+      "director": "Woody Allen"
+    },
+    {
+      "linkFoto": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2008/7/w1280/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg",
+      "linkFoto2": "https://i.blogs.es/8769ca/el-caballero-oscuro-poster/450_1000.jpg",
+      "titulo": "El caballero oscuro",
+      "argumento": "Con la ayuda del teniente Jim Gordon y del Fiscal del Distrito Harvey Dent, Batman mantiene a raya el crimen organizado en Gotham. Todo cambia cuando aparece el Joker, un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.",
+      "genero": "accion",
+      "year": 2008,
+      "director": "Christopher Nolan"
+    },
+    {
+      "linkFoto": "https://upload.wikimedia.org/wikipedia/en/2/2c/Kill_Bill_Volume_1.png",
+      "linkFoto2": "https://imagenes.20minutos.es/files/og_thumbnail/uploads/imagenes/2021/07/03/kill-bill.jpeg",
+      "titulo": "kill Bill Vol. 1",
+      "argumento": "Mamba Negra es una asesina que, el día de su boda, es atacada por los miembros de la banda de su jefe, Bill. Sin embargo consigue sobrevivir, aunque queda en coma. Cinco años después despierta, con un deseo de venganza.",
+      "genero": "accion",
+      "year": 2003,
+      "director": "Quentin Tarantino"
+    },
+    {
+      "linkFoto": "https://images-2.rakuten.tv/system/artworks/8915/original/jungla-de-cristal-3-la-venganza-1611321023-width317-quality60.jpeg",
+      "linkFoto2": "https://matematicasentumundo.es/CINE/jungla5.jpg",
+      "titulo": "La jungla de cristal: La venganza",
+      "argumento": "Un grupo terrorista se apodera de un edificio de Los Ángeles y toma a un grupo de personas como rehenes. El policía de Nueva York John McClane consigue escapar del acoso terrorista. Aunque está solo y fuera de servicio, McClane decide enfrentarse a los secuestradores y se convierte en la única esperanza para los rehenes.",
+      "genero": "accion",
+      "year": 1995,
+      "director": "John McTiernan"
+    },
+    {
+      "linkFoto": "https://es.web.img3.acsta.net/pictures/14/03/17/13/47/352013.jpg",
+      "linkFoto2": "https://album.mediaset.es/eimg/10000/2022/04/30/clipping_9gYEZk_306a.jpg?w=1200",
+      "titulo": "Top gun",
+      "argumento": "La historia se centra en los personajes de Maverick y Goose, dos pilotos de combate que han sido entrenados para ser los mejores de su escuadrón. Ellos han sido seleccionados por la Armada de los Estados Unidos entre los mejores hombres de todo el ejército, con el objetivo de poder combatir con un arma llamada Top Gun y que necesita ser manejada por los expertos y los profesionales más destacados de la nación americana.",
+      "genero": "accion",
+      "year": 1986,
+      "director": "Tony Scott"
+    },
+    {
+      "linkFoto": "https://c8.alamy.com/zoomses/9/c8d9235df39042818e51c0bc5407fc81/r59gxa.jpg",
+      "linkFoto2": "https://filasiete.com/wp-content/uploads/2019/04/El-caso-Bourne.jpg",
+      "titulo": "El caso Bourne",
+      "argumento": "Un hombre amnésico es rescatado por la tripulación de un barco pesquero italiano cuando flota a la deriva en el mar. Carece de identidad y de pasado, pero posee unas serie de talentos extraordinarios que sugieren una profesión de riesgo.",
+      "genero": "accion",
+      "year": 2002,
+      "director": "Doug Liman"
+    },
+    {
+      "linkFoto": "https://www.tuposter.com/pub/media/catalog/product/cache/image/700x560/91bbed04eb86c2a8aaef7fbfb2041b2a/t/e/terminator_2_p_ster.png",
+      "linkFoto2": "https://www.imagenesdeactualidad.com/wp-content/uploads/2017/11/Terminator-3.jpg",
+      "titulo": "Terminator 2: el juicio final",
+      "argumento": "Algunos años antes, un viajero del tiempo le reveló a la madre de John que su hijo sería el salvador de la humanidad. Cuando un nuevo androide mejorado llega del futuro para asesinar a John, un viejo modelo será enviado para protegerle.",
+      "genero": "accion",
+      "year": 1991,
+      "director": "David Cameron"
+    },
+    {
+      "linkFoto": "https://masamorymenosprozac.files.wordpress.com/2015/03/810yadm7il-_sl1500_.jpg",
+      "linkFoto2": "https://lwlies.com/wp-content/uploads/2017/12/paths-of-glory-kirk-douglas-1108x0-c-default.jpg",
+      "titulo": "Senderos de Gloria",
+      "argumento": "En la Francia de 1916, el general Boulard ordena la conquista de la posición alemana y encarga esa misión al ambicioso general Mireau. La toma de la colina resulta un infierno, y el regimiento emprende la retirada hacia las trincheras. El alto mando militar, irritado por la derrota, decide imponer al regimiento un terrible castigo.",
+      "genero": "belico",
+      "year": 1957,
+      "director": "Stanley Kubrick"
+    },
+    {
+      "linkFoto": "https://fiebredecabina.com/wp-content/uploads/2015/02/El-Francotirador-american-sniper-poster-cartel.jpg",
+      "linkFoto2": "https://img2.rtve.es/v/2947810?w=1600&preview=1636972923221.jpg",
+      "titulo": "El Francotirador",
+      "argumento": "Chris Kyle, marine del grupo de operaciones especiales del ejército de Estados Unidos, tiene como misión proteger a sus compañeros, acabando con la vida de quien pueda ponerlos en peligro. La película está basada en libro de memorias del marine Chris Kyle que batió el récord de muertes como francotirador del ejército estadounidense durante la Guerra de Irak.",
+      "genero": "belico",
+      "year": 2014,
+      "director": "Clint Eastwood"
+    },
+    {
+      "linkFoto": "https://es.web.img2.acsta.net/pictures/14/07/01/13/37/581497.jpg",
+      "linkFoto2": "https://s3.abcstatics.com/media/historia/2021/06/30/tanque-kkuG--1248x698@abc.jpg",
+      "titulo": "Corazones de acero",
+      "argumento": "Al mando del veterano sargento Wardaddy, una brigada de cinco soldados americanos a bordo de un tanque, luchan contra un ejército nazi al borde de la desesperación ya que los alemanes sabían que su derrota estaba ya cantada por aquel entonces.",
+      "genero": "belico",
+      "year": 2014,
+      "director": "David Ayer"
+    },
+    {
+      "linkFoto": "https://i.pinimg.com/originals/7f/60/6e/7f606e1aaccd9c69c44cc50177e36e19.jpg",
+      "linkFoto2": "https://e00-telva.uecdn.es/assets/multimedia/imagenes/2020/01/09/15785849286028.jpg",
+      "titulo": "1917",
+      "argumento": "La película sigue a dos jóvenes soldados británicos a lo largo de un único día en lo más crudo de la Primera Guerra Mundial.",
+      "genero": "belico",
+      "year": 2019,
+      "director": "Sam Mendes"
+    },
+    {
+      "linkFoto": "https://es.web.img2.acsta.net/r_1280_720/pictures/210/059/21005909_20130515005645694.jpg",
+      "linkFoto2": "https://www.abc.es/media/peliculas/000/005/522/das-boot-el-submarino-2.jpg",
+      "titulo": "El submarino",
+      "argumento": "Un submarino alemán de la Segunda Guerra Mundial es el escenario en el que un grupo de jóvenes soldados, dispuesto a defender su patria, tendrá que someterse a una dura convivencia, tras descubrir que han sido enviados a realizar una misión probablemente suicida. ",
+      "genero": "belico",
+      "year": 1981,
+      "director": "Wolfgang Petersen"
+    },
+    {
+      "linkFoto": "https://www.aceprensa.com/wp-content/uploads/elementor/thumbs/12162-0-pb2l7mkcotpyburh0g8t2st99l7rlhizrox5mhhrsw.jpg",
+      "linkFoto2": "https://i.blogs.es/9a2de4/en-tierra-hostil-foto6/450_1000.jpg",
+      "titulo": "En tierra hostil",
+      "argumento": "Los integrantes de un comando especializado en desactivación de explosivos durante la guerra de Irak, deben hacer frente a situaciones extremas que pondrán a prueba muchas de sus facultades.",
+      "genero": "belico",
+      "year": 2008,
+      "director": "Kathryn Bigelow"
+    }
+  ]
+}
